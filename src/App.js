@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Kleber Chikui Lima</h1>
+        <h3>WebDev</h3>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
